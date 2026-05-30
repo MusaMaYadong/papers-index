@@ -1,0 +1,4 @@
+# 公开仓库只保留 index.html 供浏览器查阅，其余一律不跟踪/不上传
+/*
+!index.html
+!.gitignore
